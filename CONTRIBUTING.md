@@ -20,9 +20,9 @@ If you need any help or want someone to set up the workspace with you and get yo
 
 If you are looking forward to solve issues, you can select any issue you want but it would be great if you start with these issues, for these issues I will be specifically asking for help :
 
-https://github.com/shanalikhan/code-settings-sync/labels/good%20first%20issue
+https://github.com/shanalikhan/code-settings-sync/labels/good%20first%20issue%20%20%E2%9C%A8
 
-https://github.com/shanalikhan/code-settings-sync/labels/PR-Welcome
+https://github.com/shanalikhan/code-settings-sync/labels/PR-Welcome%20%20%E2%9C%A8
 
 
 ## Setup Extension Locally
